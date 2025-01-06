@@ -12,6 +12,10 @@ A Python implementation of a Convolutional Neural Network (CNN) for classifying 
 
 ## Getting Started
 
+### Why this project?
+
+This project aims to provide a hands-on approach to understanding and implementing Convolutional Neural Networks (CNNs) for image classification tasks. It is designed for learners and practitioners who want to explore the CIFAR-10 dataset and gain experience in building and training deep learning models. By working through this project, users can deepen their understanding of neural network architecture, data preprocessing, and performance evaluation.
+
 ### Prerequisites
 
 Make sure you have Python and the following libraries installed:
@@ -52,14 +56,30 @@ You can load the dataset directly using TensorFlow or PyTorch libraries.
 
 - **Training Accuracy:** Add final accuracy here.
 - **Test Accuracy:** Add final accuracy here.
-- **Sample Predictions:** Add examples of predictions with images and labels.
+- **Sample Predictions:** ![Sample Prediction](path/to/sample_prediction.png)
 
-Include training/validation loss and accuracy graphs for better visualization.
+### Training Metrics Visualization
+
+Below are the training/validation loss and accuracy graphs:
+
+![Loss Graph](path/to/loss_graph.png)
+![Accuracy Graph](path/to/accuracy_graph.png)
+
+These visualizations help to understand model performance and overfitting trends during training.
+
 
 
 ## Contribution
 
-Contributions are welcome! If you have suggestions for improvements or find any bugs, feel free to create an issue or submit a pull request.
+Contributions are welcome! Here are some ways you can add value to the project:
+
+1. **Report Bugs**: If you encounter any issues, please open an issue with detailed information and steps to reproduce the problem.
+2. **Improve Documentation**: Help make the README or code comments more informative and clear.
+3. **Enhance Features**: Suggest or implement additional features, such as new visualization techniques or optimization strategies for the CNN.
+4. **Fix Issues**: Check the issues tab for any outstanding problems and submit pull requests with fixes.
+5. **Add Tests**: Implement unit tests to ensure model robustness and accuracy.
+
+To contribute, fork the repository, make your changes, and submit a pull request with a clear description of your updates.
 
 ## License
 
