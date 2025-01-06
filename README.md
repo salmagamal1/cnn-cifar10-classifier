@@ -1,7 +1,6 @@
 # CNN CIFAR-10 Classifier
 
 A Python implementation of a Convolutional Neural Network (CNN) for classifying images in the CIFAR-10 dataset. This project includes data preprocessing, a custom CNN architecture, model training, evaluation, and visualizations.
-# CNN_CIFAR10
 
 ## Features
 - **Dataset:** CIFAR-10
