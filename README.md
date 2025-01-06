@@ -56,14 +56,6 @@ You can load the dataset directly using TensorFlow or PyTorch libraries.
 
 Include training/validation loss and accuracy graphs for better visualization.
 
-## Project Structure
-
-```
-cnn-cifar10-classifier/
-|— CNN_cifar10.ipynb   # Jupyter Notebook for the project
-|— requirements.txt     # List of dependencies
-|— README.md            # Project documentation
-```
 
 ## Contribution
 
